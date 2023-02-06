@@ -4,3 +4,4 @@
 * Created a repository "devops"
 * Created master and dev branches for the devops repository
 * Cloned the repository on local machine using a terminal window on VS Code
+* git config --global user.name "RKrishna05"; git config --global user.email "rahulkrishna0405@gmail.com"
